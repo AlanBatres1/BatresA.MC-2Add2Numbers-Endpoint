@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BatresA.MC#2Add2Numbers-Endpoint.props" />
+</Project>
