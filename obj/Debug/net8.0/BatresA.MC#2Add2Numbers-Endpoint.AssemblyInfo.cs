@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BatresA.MC#2Add2Numbers-Endpoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e30c944636628c1d12281168a62480a83a887a79")]
 [assembly: System.Reflection.AssemblyProductAttribute("BatresA.MC#2Add2Numbers-Endpoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BatresA.MC#2Add2Numbers-Endpoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
